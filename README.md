@@ -12,5 +12,5 @@ Within this project, tasks will include paper reading, algorithm implementation 
 - 5. If everything goes well, we would like to host mid-term thesis defense at Dec.2015.
 - 6. Finally accomplish degree paper and graduate requirement at 2016.
 
-##Current Phase
-### Mar.2015
+##Milestones
+### [Mar.2015](https://github.com/fmars/Differential-Privacy/tree/master/March.2015)
