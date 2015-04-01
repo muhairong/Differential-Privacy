@@ -1,4 +1,4 @@
-# Differential-privacy
+# Differential-Privacy
 This repo is used for fmars and mumu to cooperate Differential Privacy project. 
 
 ##Tasks
