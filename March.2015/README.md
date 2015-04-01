@@ -1,5 +1,5 @@
 ##Phase Recorder Milestone
-###How to Use
+###How to Use Me (write for mumu)
 - Mark your questions, answers and TODO list in this README file. Thus everyone would have a clear overview of current progress. This file can be directly edit using github webpage. (hint: git pull is needed before git push if this file is edited from brower).
 
 - DO WRITE the details of your questions and answers at the note file (*.note) corresponding to the paper name. This README file is only used to expose a clear overview. You can access both paper itself and note file from this README file.
