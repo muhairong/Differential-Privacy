@@ -13,4 +13,4 @@ Within this project, tasks will include paper reading, algorithm implementation 
 - 6. Finally accomplish degree paper and graduate requirement at 2016.
 
 ##Milestones
-### [Mar.2015](https://github.com/fmars/Differential-Privacy/tree/master/March.2015)
+- [Mar.2015](https://github.com/fmars/Differential-Privacy/tree/master/March.2015)
